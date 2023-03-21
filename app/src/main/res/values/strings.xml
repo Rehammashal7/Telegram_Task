@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Telegram Task</string>
+    <string name="online">Online</string>
+    <string name="name">The Chance</string>
+    <string name="media">media</string>
+    <string name="links">links</string>
+    <string name="files">files</string>
+    <string name="invite">invite</string>
+    <string name="off">On</string>
+    <string name="info">info</string>
+</resources>
